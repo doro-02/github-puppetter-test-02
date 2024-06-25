@@ -1,2 +1,2 @@
 # github-puppetter-test-02
-# update readme
+# update readME
